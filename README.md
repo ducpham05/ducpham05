@@ -13,7 +13,7 @@
     <h2>Đại hội Đoàn toàn quốc lần thứ XII</h2>
     <p>Chúc mừng Trịnh Phương Thùy đã hoàn thành</p>
     <p>Số câu trả lời đúng: 77/100</p>
-    <p>Điểm số: 87</p>
+    <p>Điểm số: 77</p>
     <p>Thời gian thi: 00:18:26</p>
   </div>
   <div class="footer">
