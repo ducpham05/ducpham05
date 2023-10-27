@@ -21,6 +21,45 @@
   </div>
 </body>
 </html>
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+.main {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+}
 
 <!---
 ducpham05/ducpham05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
